@@ -1,0 +1,35 @@
+_repo: Marsin-ritarit_64956
+_version: 0.0.1
+alternative_title: The chessmen of Mars. Finnish
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2021-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64956'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Marsin ritarit
+url: http://www.gutenberg.org/ebooks/64956
